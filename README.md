@@ -1,5 +1,5 @@
 📘 File Retrieval Engine (Multithreaded Indexing System)
-Author: YourName
+Author: Martine Mbitaze
 Course: Programming Assignment 3 – Multithreaded File Retrieval
 Date: October 2025
 Language: Java (JDK 17)
